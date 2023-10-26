@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lisii/Documents/Github-Repos/Codes/MenuForLinux/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Menu.dir/Main.cpp.o -c /home/lisii/Documents/Github-Repos/Codes/MenuForLinux/Main.cpp",
+  "file": "/home/lisii/Documents/Github-Repos/Codes/MenuForLinux/Main.cpp"
+},
+{
+  "directory": "/home/lisii/Documents/Github-Repos/Codes/MenuForLinux/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Menu.dir/Menu.cpp.o -c /home/lisii/Documents/Github-Repos/Codes/MenuForLinux/Menu.cpp",
+  "file": "/home/lisii/Documents/Github-Repos/Codes/MenuForLinux/Menu.cpp"
+}
+]
